@@ -12,6 +12,7 @@ cd txt2js-list
 *This is a basic runthrough of using the script. For more configuration, see the [Arguments](#Arguments) section below*
 1. Place `input.txt` in the script directory
 2. Run the script with one of the following commands:
+
     [uv](https://docs.astral.sh/uv/):
     ```bash
     uv run main.py
